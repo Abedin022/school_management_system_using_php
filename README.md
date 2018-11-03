@@ -7,13 +7,20 @@ Then the back end part is done using pure php and mysql. I used LAMP stack as my
 
 This system contains the following modules: 
 
-=> Individual module for admin, teacher, parent & student 
+=> Individual module for admin, teacher, parent & student
+
 => Courses for specific class
+
 => Results (both individual and combined)
+
 => Attendance
+
 => Info about everyone (privacy is well maintained)
+
 => corresponding profiles
+
 => report module (teacher can send report to the parents)
+
 
 This is not the final version, just a prototype. I'll try to enhance and modify it by adding more features. 
 Hope you like it!!
