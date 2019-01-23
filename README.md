@@ -1,9 +1,9 @@
 # school_management_system_using_php
 This is a simple School Management System which is created using raw Php and mysql. 
 
-I haven't worked too much on the front end, because this was already been taken care of by admin LTE template. I just configured it according to my settings. 
+I used Admin LTE Template for some purpose, there is not much work done at the front end.
 
-Then the back end part is done using pure php and mysql. I used LAMP stack as my development environment.
+The back end part is done using pure php and mysql. I used LAMP stack as my development environment.
 
 This system contains the following modules: 
 
